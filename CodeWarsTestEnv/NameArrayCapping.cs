@@ -8,6 +8,15 @@ namespace CodeWarsTestEnv
 {
     public static class NameArrayCapping
     {
+        /*  Description:
+       --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            Create a method that accepts an array of names, and returns an array of each name with its first letter capitalized.
+         
+            example
+                Kata.CapMe([new string[]{"jo", "nelson", "jurie"}) // returns string[]{"Jo", "Nelson", "Jurie"}
+                Kata.CapMe([new string[]{"KARLY", "DANIEL", "KELSEY"}) // returns string[]{"Karly", "Daniel", "Kelsey"}
+       --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        */
         public static string[] CapMe(string[] strings)
         {
             return strings.Select(p => Char.ToUpper(p.ToCharArray().FirstOrDefault()) + new string(p.Skip(1).Select(k => Char.ToLower(k)).ToArray())).ToArray();

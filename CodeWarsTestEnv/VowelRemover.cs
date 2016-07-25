@@ -9,6 +9,16 @@ namespace CodeWarsTestEnv
 {
     public class VowelRemover
     {
+        /*  Description:
+       --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            Create a function called shortcut to remove all the lowercase vowels in a given string.
+         
+            Examples
+                Shortcut("codewars") # --> cdwrs
+                Shortcut("goodbye")  # --> gdby
+            Don't worry about uppercase vowels.
+       --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        */
         public static string Shortcut(string input)
         {
             string filteredWord = "";
