@@ -1,0 +1,9 @@
+D:\CodeWars\CodeWarsTestEnv\CodeWarsTestEnv\bin\Debug\CodeWarsTestEnv.exe.config
+D:\CodeWars\CodeWarsTestEnv\CodeWarsTestEnv\bin\Debug\CodeWarsTestEnv.exe
+D:\CodeWars\CodeWarsTestEnv\CodeWarsTestEnv\bin\Debug\CodeWarsTestEnv.pdb
+D:\CodeWars\CodeWarsTestEnv\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.exe
+D:\CodeWars\CodeWarsTestEnv\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.pdb
+D:\CodeWars\CodeWarsTestEnv\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.csprojResolveAssemblyReference.cache
+D:\GitHub\CodeWars\CodeWarsTestEnv\bin\Debug\CodeWarsTestEnv.exe.config
+D:\GitHub\CodeWars\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.exe
+D:\GitHub\CodeWars\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.pdb
