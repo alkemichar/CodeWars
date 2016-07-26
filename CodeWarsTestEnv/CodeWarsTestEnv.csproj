@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinaryToString.cs" />
     <Compile Include="CommonDenominators.cs" />
     <Compile Include="DigPow.cs" />
     <Compile Include="Highest2Factors.cs" />
