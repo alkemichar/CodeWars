@@ -9,4 +9,3 @@ D:\GitHub\CodeWars\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.exe
 D:\GitHub\CodeWars\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.pdb
 D:\GitHub\CodeWars\CodeWarsTestEnv\bin\Debug\CodeWarsTestEnv.exe
 D:\GitHub\CodeWars\CodeWarsTestEnv\bin\Debug\CodeWarsTestEnv.pdb
-D:\GitHub\CodeWars\CodeWarsTestEnv\obj\Debug\CodeWarsTestEnv.csprojResolveAssemblyReference.cache

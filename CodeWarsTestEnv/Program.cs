@@ -19,8 +19,9 @@ namespace CodeWarsTestEnv
             //long[,] lst2 = new long[,] { { 1, 4 }, {10 ,50} };
             //var result = CommonDenominators.convertFrac(lst);
             //var res = Highest2Factors.HighestBiPrimeFac(5,11,1000);
+            //var result = BinaryToString.MySolution("0100100001100101011011000110110001101111");
 
-            var result = BinaryToString.MySolution("0100100001100101011011000110110001101111");
+            var rez = (-0m).ToCurrency("E");
         }
     }
 }

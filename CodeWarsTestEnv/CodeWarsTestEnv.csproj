@@ -44,12 +44,14 @@
     <Compile Include="BinaryToString.cs" />
     <Compile Include="CommonDenominators.cs" />
     <Compile Include="DigPow.cs" />
+    <Compile Include="DuplicateEncode.cs" />
     <Compile Include="Highest2Factors.cs" />
     <Compile Include="Masify.cs" />
     <Compile Include="NameArrayCapping.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SequenceSum.cs" />
+    <Compile Include="ToCurrency.cs" />
     <Compile Include="VowelRemover.cs" />
   </ItemGroup>
   <ItemGroup>
