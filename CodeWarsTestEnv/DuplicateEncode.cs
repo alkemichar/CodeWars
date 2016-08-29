@@ -22,7 +22,8 @@ namespace CodeWarsTestEnv
     {
         public static string DuplicateEncode(string word)
         {
-            return word.ToString();
+            List<char> charStorage = new List<char>();
+            word.ToLower().ToCharArray().Select(p => (charStorage.Contains(p) ? : ));
         }
     }
 }
