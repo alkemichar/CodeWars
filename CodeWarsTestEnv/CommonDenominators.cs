@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeWarsTestEnv
 {
-    /*  Description:
+    /*  Common Denominators
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
         You will have a list of rationals in the form
             { {numer_1, denom_1} , ... {numer_n, denom_n} }
@@ -18,6 +18,8 @@ namespace CodeWarsTestEnv
     
         Example :
             { {1, 2}, {1, 3}, {1, 4} } produces the string (6,12)(4,12)(3,12)
+     
+        https://www.codewars.com/kata/54d7660d2daf68c619000d95
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     */
     public static class CommonDenominators

@@ -16,6 +16,8 @@ namespace CodeWarsTestEnv
         (0m).ToCurrency("$") should return "$0.00"
         (1.2345m).ToCurrency("$") should return "$1.23"
         (-99.9999m).ToCurrency("$") should return "-$100.00"
+        
+        https://www.codewars.com/kata/553133a9685e7a34aa00001c
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     */
     public static class ToCurrencyClass

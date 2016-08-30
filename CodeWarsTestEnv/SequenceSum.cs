@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeWarsTestEnv
 {
-    /*  Description:
+    /*  SequenceSum
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
         Sum_of_n (or SequenceSum.sumOfN in Java, SequenceSum.SumOfN in C#) takes an integer n and returns a List (an Array in Java/C#) of length abs(n) + 1. 
         The List/Array contains the numbers in the arithmetic series produced by taking the sum of the consecutive integer numbers from 0 to n inclusive.
@@ -17,6 +17,8 @@ namespace CodeWarsTestEnv
             5 -> [0, 1, 3, 6, 10, 15]
             -5 -> [0, -1, -3, -6, -10, -15]
             7 -> [0, 1, 3, 6, 10, 15, 21, 28]
+      
+        https://www.codewars.com/kata/5436f26c4e3d6c40e5000282
    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     */
     public static class SequenceSum

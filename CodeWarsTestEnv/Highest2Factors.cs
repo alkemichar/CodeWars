@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeWarsTestEnv
 {
-    /*  Description:
+    /*  Highest number with two prime factors
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
         The numbers 6, 12, 18, 24, 36, 48 have a common property. They have the same two prime factors that are 2 and 3.     
         If we see their prime factorization we will see it more clearly:
@@ -27,6 +27,8 @@ namespace CodeWarsTestEnv
         Let's see the cases we have above:
             highest_biPrimefac(2, 3, 50) ------> [48, 4, 1]
             highest_biPrime(5, 11, 1000) ------> [605, 1, 2]
+      
+        https://www.codewars.com/kata/55f347cfb44b879e1e00000d
      --------------------------------------------------------------------------------------------------------------------------------------------------------------------
      */
     public class Highest2Factors
