@@ -27,7 +27,13 @@ namespace CodeWarsTestEnv
     {
         public static int TankVol(int h, int d, int vt)
         {
-            return 1;
+            double R = (d / 2);
+            double tankLength = (double)(vt / (Math.PI * Math.Pow(R, 2)));
+
+            double slice = ((2 * ((Math.Acos((R - h) / R) * 180) / Math.PI)) / 360) * (Math.Pow(R, 2) * Math.PI);
+            double triangle = Math.Sin(Math.Acos((R - h) / R)) * R;
+            
+            return (int)Math.Floor((slice - triangle) * tankLength);
         }
     }
 }
