@@ -45,6 +45,7 @@
     <Compile Include="CommonDenominators.cs" />
     <Compile Include="DigPow.cs" />
     <Compile Include="DuplicateEncode.cs" />
+    <Compile Include="FindTheSmallest.cs" />
     <Compile Include="Highest2Factors.cs" />
     <Compile Include="Masify.cs" />
     <Compile Include="NameArrayCapping.cs" />
